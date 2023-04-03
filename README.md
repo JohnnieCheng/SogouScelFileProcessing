@@ -4,7 +4,7 @@
 
 ## 现有词库
 
-我也准备好了现成的词典库：[https://github.com/renfei/dict](https://github.com/renfei/dict)
+我也准备好了现成的词典库：[https://github.com/renfei/dict](https://github.com/renfei/dict) [https://github.com/johnniecheng/dict](https://github.com/johnniecheng/dict)
 
 ## 使用示例
 Scel 文件在我本机的路径是 ```/Users/renfei/Downloads/财会词汇大全.scel``` 将其转换到 ```/Users/renfei/Downloads/财会词汇大全.txt``` :
